@@ -1,5 +1,4 @@
-# setwd("C:/Users/sebas/Google Drive/Hamilton Internship 2022/code")
-# setwd("C:/Users/sebas/My Drive (chejnias@tcd.ie)/Hamilton Internship 2022/code")
+# setwd(...)
 
 library(dplyr)
 library(ggplot2)
